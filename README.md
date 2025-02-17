@@ -1,6 +1,8 @@
 # HR-Dashboard-MySQL-PowerBI
 
 <img width="663" alt="Screenshot 2025-02-17 194428" src="https://github.com/user-attachments/assets/a849c397-b175-4e05-868f-d35939b171b2" />
+<img width="664" alt="Screenshot 2025-02-17 194519" src="https://github.com/user-attachments/assets/c994fa67-c6ca-4602-8f8a-e260d4b17256" />
+
 
 ## Analysis Questions
 1. What is the gender breakdown of employees in the company?
